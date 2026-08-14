@@ -1,0 +1,12 @@
+# Exclude build artifacts
+# Do not edit manually
+# Default behavior
+*.ts linguist-detectable
+*.jpg binary
+dist/* linguist-vendored
+
+docs/** linguist-vendored
+*.jpeg binary
+*.ico binary
+docs/*.html linguist-vendored 
+# eof e8e1f296
